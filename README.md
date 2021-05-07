@@ -1,4 +1,5 @@
 # d-carwash
+preview : https://streamable.com/mh655r
 CarWash Script for FiveM
 requirements mythic_progbar
              np-target 
