@@ -1,5 +1,8 @@
 # d-carwash
 - If u use esx inventory or disc whatever xPlayer.getQuantity u need to change this code .
+
+
+
 preview : https://streamable.com/mh655r
 CarWash Script for FiveM
 requirements mythic_progbar
