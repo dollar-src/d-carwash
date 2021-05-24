@@ -9,6 +9,7 @@ requirements mythic_progbar
              np-target 
              
 NP-Target Setup
+https://github.com/dollar-src/np-target
 np-target/client.lua
 
             AddCircleZone("carwash", vector3(42.7640, -1400.2, 29.3496), 3.0, {
